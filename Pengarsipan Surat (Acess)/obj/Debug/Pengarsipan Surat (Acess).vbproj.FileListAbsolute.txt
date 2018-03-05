@@ -1,0 +1,20 @@
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\bin\Debug\Pengarsipan Surat (Acess).exe
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\bin\Debug\Pengarsipan Surat (Acess).pdb
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\bin\Debug\Pengarsipan Surat (Acess).xml
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Disposisi.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Login.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.menuutama.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Resources.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Surat_Masuk.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan Surat (Acess).vbproj.GenerateResource.Cache
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan Surat (Acess).exe
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan Surat (Acess).xml
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan Surat (Acess).pdb
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Surat_Keluar.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Laporan_Surat_Masuk.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Laporan_Surat_Keluar.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.Laporan_Disposisi.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.petugas.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.cetak.resources
+C:\Users\Sulistiani\Documents\Visual Studio 2008\Projects\Pengarsipan Surat (Acess)\Pengarsipan Surat (Acess)\obj\Debug\Pengarsipan_Surat__Acess_.menuutama1.resources
